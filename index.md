@@ -17,7 +17,7 @@ Each of these projects are driven by community and workers who are ready for a m
 ### Newsletter
 Check out our newsletter! Here are some notable posts:
 
-- [[Newsletter-3-31-26|| Number 1: New Beginnings]]: Posted in 3/31/26
+- [[Newsletter-3-31-26|Number 1: New Beginnings]]: Posted in 3/31/26
 
 ### How to Contact Us
 

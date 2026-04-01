@@ -9,7 +9,7 @@ Auric Trade Collective originally organized in 2025 between a group of friends w
 
 And there it came. An idea to create not only a community driven project, but a bond between developers and their community. We came up with [[Nexus]]. [[Nexus]] being an interconnected web of services, games, and platforms related to a communities vision, and the developers comfort. An idea maintained by a collective of workers who had a say in their environment. A worker cooperative who's own self extension was their community.
 
-And here we are today! Establishing our first newsletter. Very exciting stuff. Now that you know who we are, you ought to know the specifics. And that is a very complex topic indeed. You can view our [[index||homepage]] to see our current projects, but here is a list of what we've been doing to maintain them:
+And here we are today! Establishing our first newsletter. Very exciting stuff. Now that you know who we are, you ought to know the specifics. And that is a very complex topic indeed. You can view our [[index|homepage]] to see our current projects, but here is a list of what we've been doing to maintain them:
 
 - We've recently onboarded seven new community members to help direct the development of our signature project, The Space. These people will soon be organized into a legislative body which can pass community decisions effectively.
 - We have, of course, created this blog!
