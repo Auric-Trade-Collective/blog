@@ -1,6 +1,7 @@
 ---
 aliases:
 title: Home
+date: 3/31/26
 ---
 
 ___
