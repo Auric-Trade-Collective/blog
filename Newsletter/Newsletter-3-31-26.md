@@ -1,9 +1,8 @@
 ---
 title: "Newsletter no. 1: New Beginnings"
+date: 3/31/26
+author: yendy
 ---
-**3/31/26**
-**Written by:** Yendy
-
 This initial newsletter for Auric Trade Collective officially opens up a line of public updates that we plan on giving our community! To begin, it would be appropriate for us to give some background on who we are, and what we do.
 
 Auric Trade Collective originally organized in 2025 between a group of friends who wanted to start a reselling business. Yes, we know! We have changed a lot! Of course now we have grown to make software. Over time we realized that the landscape of software, games, and the workplace had long been out of the favor of people who actually care. We wanted to change that. We wanted to give power back to people who had long forsaken their once beloved communities.
