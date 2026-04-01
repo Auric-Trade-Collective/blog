@@ -4,6 +4,8 @@ title: Home
 ---
 
 ___
+### Introduction
+___
 Welcome to the blog site for Auric Trade Collective! To give a small overview, we are a worker cooperative tech startup focused on community driven software and worker driven enterprise. We currently have a few projects launched:
 
 - [The Grid](https://github.com/Auric-Trade-Collective/The-Grid): The Grid is an up and coming communications platform which is inspired by Discord and functions as a social platform for other projects in [[Nexus]]
