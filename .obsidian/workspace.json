@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newsletter-3-31-26.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Newsletter-3-31-26"
+              "title": "index"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newsletter-3-31-26.md",
+                "file": "Newsletter/Newsletter-3-31-26.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newsletter-3-31-26.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Newsletter-3-31-26"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newsletter-3-31-26.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Newsletter-3-31-26"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newsletter-3-31-26.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Newsletter-3-31-26"
+              "title": "Outline of index"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "63747d51d358e327",
   "lastOpenFiles": [
+    "Newsletter/Newsletter-3-31-26.md",
     "index.md",
-    "Newsletter-3-31-26.md",
     "Newsletter",
     "Projects/Nexus.md",
     "Projects",

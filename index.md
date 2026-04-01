@@ -13,6 +13,11 @@ Welcome to the blog site for Auric Trade Collective! To give a small overview, w
 
 Each of these projects are driven by community and workers who are ready for a more purist approach to software and enterprise. They are developed by workers who have been betrayed by enterprise bloat and unnecessary standards. And they are built in the vision of users who have been let down by profit driven platforms.
 
+### Newsletter
+Check out our newsletter! Here are some notable posts:
+
+- [[Newsletter-3-31-26|| Number 1: New Beginnings]]: Posted in 3/31/26
+
 ### How to Contact Us
 
 You can contact us in numerous ways:
