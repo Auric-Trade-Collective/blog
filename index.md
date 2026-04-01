@@ -23,5 +23,5 @@ Check out our newsletter! Here are some notable posts:
 
 You can contact us in numerous ways:
 
-- The best way to contact us is by joining our [Discord server](https://discord.gg/39Qp8MVKsY).
+- The best way to contact us is by joining our [Discord server](https://discord.gg/tJ4qVR3xGM).
 - You can also contact us on our [GitHub discussions page](https://github.com/orgs/Auric-Trade-Collective/discussions/1).
