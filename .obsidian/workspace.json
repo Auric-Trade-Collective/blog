@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Newsletter/Newsletter-4-5-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Newsletter-4-5-26"
             }
           },
           {
@@ -200,6 +200,7 @@
   "active": "63747d51d358e327",
   "lastOpenFiles": [
     "Newsletter/Newsletter-3-31-26.md",
+    "Newsletter/Newsletter-4-5-26.md",
     "index.md",
     "Newsletter",
     "Projects/Nexus.md",
