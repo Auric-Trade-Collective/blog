@@ -1,0 +1,5 @@
+Since Auric Trade Collective is a worker cooperative, we give our developers a chance to vote on decisions in the workplace, and in their projects. While many worker cooperatives do either a flat hierarchical model, or a model with a board of directors, we have something of a hybrid. Auric Trade Collective runs elections for positions in whatever hierarchies that we have internally.
+
+While we do have complex hierarchical models, our developers can use voting power to modify, challenge, and extend the environment they work in. Even though we give some members authority, the collective itself is still ultimately subject to a voting model.
+
+When Auric feels a need to put someone in a place of authority,  they are handpicked by either the collective themselves or already existing hierarchies within ATC. Such people are only considered "elected" when they have then been voted into their designated position by the collective or those they may be overseeing.
