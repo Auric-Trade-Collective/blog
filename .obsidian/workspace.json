@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Flyer.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flyer"
+              "title": "index"
             }
           },
           {
@@ -226,12 +226,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "57f834d7529e9d42",
+  "active": "1c85b52022d225f5",
   "lastOpenFiles": [
+    "About Us/Flyer.md",
     "Newsletter/Newsletter-4-5-26.md",
-    "Other/Flyer.md",
     "index.md",
-    "Other",
+    "About Us",
     "Newsletter/Newsletter-4-20-26.md",
     "Newsletter/Newsletter-4-13-26.md",
     "What Is Auric?/Voting In Auric.md",
