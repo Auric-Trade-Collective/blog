@@ -16,7 +16,7 @@ Our movement is very small right now, and that's why we're looking for like-mind
 
 **Max T. Olliver, Treasurer**: Max is our teams treasurer, but he's much more than just that. Max has been working hard to keep the collective alive and motivated.
 
-We have 4 more people who would be eager to see newcomers to our movement! They're actively working to make our projects move along.
+We have 4 more people who would be eager to see newcomers to our movement! They're actively working to make our projects move along. If you'd like to be one of those newcomers, please reach out to us. We need as much help as we can possibly get!
 
 ### Our Projects
 We've been working on a number of projects to get our movement off the ground, these vary from games to webservers.
@@ -30,7 +30,7 @@ We've been working on a number of projects to get our movement off the ground, t
 **Nexus, Our Universe**: Nexus, as an idea, is more of a network. It's the representation of the connection between these three projects. And it's our underlying mission in the flesh.
 
 ### Contact Us
-If you're interested in our mission, you can contact us through [our discord](https://discord.gg/3qY4QjdQ6e) or emails:
+If you're interested in our mission, you can contact us through [our discord](https://discord.gg/3qY4QjdQ6e) or emails. Even if you don't program, we want to hear your ideas!
 
 - yendy@aurictradecollective.org
 - molliver@aurictradecollective.org

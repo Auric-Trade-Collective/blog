@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "About Us/Flyer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Flyer"
             }
           },
           {
@@ -226,11 +226,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c85b52022d225f5",
+  "active": "57f834d7529e9d42",
   "lastOpenFiles": [
+    "index.md",
     "About Us/Flyer.md",
     "Newsletter/Newsletter-4-5-26.md",
-    "index.md",
     "About Us",
     "Newsletter/Newsletter-4-20-26.md",
     "Newsletter/Newsletter-4-13-26.md",
